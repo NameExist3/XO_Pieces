@@ -1,5 +1,5 @@
 # XO_Pieces
-一个XO对子棋，主要是为了理解网页通过javaScript 进行动态的交互。 
+网页井字棋，主要是为了理解网页通过JavaScript 进行动态的交互。 利用了TypeScript开发并自动转换为JavaScript
 
 前端语言：
 
